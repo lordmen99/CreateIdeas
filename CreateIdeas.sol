@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-contract ShipIdeas {
+contract Createdeas {
     //Token
     string public name;
     string public symbol;
