@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-contract Createdeas {
+contract CreateIdeas {
     //Token
     string public name;
     string public symbol;
